@@ -169,7 +169,7 @@ Relationships:
 *(Add links when available)*
 
 * **GitHub Repository:** *https://github.com/neshanpramuditha/Book-Story-A-libary-booking-system-.git*
-* **Project Presentation Video:** *https://youtu.be/NbcktSbL-nQ*
+* **Project Presentation Video:** *https://drive.google.com/file/d/1Hzj-zCjfGiluSd5YxmhFbuQttGQ1N8sF/view?usp=sharing*
 
 ---
 
